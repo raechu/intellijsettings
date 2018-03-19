@@ -42,6 +42,9 @@
   <action id="EditorLookupUp" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Help.KeymapReference">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
