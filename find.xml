@@ -19,6 +19,7 @@
       <mask>*.java</mask>
       <mask>*.ts, *.java</mask>
       <mask>*.html</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
