@@ -12,7 +12,6 @@
       <mask>*.html, *.jsp</mask>
       <mask>*.html, *.js, *.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.js</mask>
       <mask>*.ts</mask>
       <mask>*.ts,*.html</mask>
       <mask>*.ts, *.java</mask>
@@ -20,6 +19,7 @@
       <mask>*.sql</mask>
       <mask>*.html, *.js,</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
