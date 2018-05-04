@@ -18,8 +18,8 @@
       <mask>*.html</mask>
       <mask>*.sql</mask>
       <mask>*.html, *.js,</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
