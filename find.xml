@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Excluding Generated" />
-    <option name="defaultScopeName" value="Project Excluding Generated" />
-    <option name="SEARCH_SCOPE" value="Project Excluding Generated" />
-    <option name="FILE_MASK" value="*.html, *.js," />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -18,9 +18,9 @@
       <mask>*.ts, *.java</mask>
       <mask>*.html</mask>
       <mask>*.sql</mask>
+      <mask>*.html, *.js,</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
-      <mask>*.html, *.js,</mask>
     </recentFileMasks>
   </component>
 </application>
