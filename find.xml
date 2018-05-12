@@ -10,14 +10,17 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html, *.jsp</mask>
-      <mask>*.html, *.js,</mask>
       <mask>*.html, *.js, *.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.html</mask>
-      <mask>*.js</mask>
       <mask>*.ts</mask>
       <mask>*.ts,*.html</mask>
+      <mask>*.ts, *.java</mask>
+      <mask>*.html</mask>
+      <mask>*.sql</mask>
+      <mask>*.html, *.js,</mask>
+      <mask>*.java, *.jsp, *.html, *.js</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
