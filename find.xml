@@ -21,6 +21,7 @@
       <mask>*.java, *.jsp, *.html, *.js</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
