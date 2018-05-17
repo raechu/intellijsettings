@@ -70,6 +70,9 @@
     <keyboard-shortcut first-keystroke="shift alt 3" />
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
