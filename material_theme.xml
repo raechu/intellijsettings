@@ -1,12 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.2.3.1" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="3" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="c6ff00" />
+    <option name="accentColor" value="795548" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="compactDropdowns" value="true" />
