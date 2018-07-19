@@ -45,6 +45,9 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorNextWord">
