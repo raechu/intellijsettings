@@ -3,14 +3,9 @@
     <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="3" />
     <option name="isContrastMode" value="true" />
-    <option name="isBoldTabs" value="true" />
-    <option name="accentColor" value="607d8b" />
-    <option name="compactSidebar" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="compactDropdowns" value="true" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="accentColor" value="80cbc4" />
     <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="-5ac3f6a2:1647cadbc9a:-7fff" />
     <option name="allowDataCollection" value="true" />
