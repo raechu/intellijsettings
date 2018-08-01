@@ -45,8 +45,14 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
