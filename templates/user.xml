@@ -5,4 +5,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="cinf" value="console.info(&quot;$TEXT$&quot;);" description="console.info" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
