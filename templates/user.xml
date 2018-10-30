@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="eslcon" value="//eslint-disable-next-line no-console" description="Disable eslint no-console for next line" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
