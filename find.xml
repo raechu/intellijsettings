@@ -16,7 +16,7 @@
     <mask>*.js,*.html</mask>
     <mask>*.scss</mask>
     <mask>*.css, *.scss</mask>
-    <mask>*_test.js</mask>
     <mask>*.js</mask>
+    <mask>*_test.js</mask>
   </component>
 </application>
