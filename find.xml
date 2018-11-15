@@ -3,9 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html,*.js" />
+    <option name="FILE_MASK" value="*.html,*.js,*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -23,5 +25,6 @@
     <mask>*.js</mask>
     <mask>!*.xml</mask>
     <mask>*.html,*.js</mask>
+    <mask>*.html,*.js,*.ts</mask>
   </component>
 </application>
