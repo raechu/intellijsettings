@@ -1,12 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
-    <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="rightTreeIndent" value="6" />
     <option name="accentColor" value="00bcd4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-5ac3f6a2:1647cadbc9a:-7fff" />
-    <option name="allowDataCollection" value="true" />
+    <option name="version" value="3.0.0-pre3" />
   </component>
 </application>
