@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="op" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
