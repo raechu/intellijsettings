@@ -3,11 +3,12 @@
     <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="rightTreeIndent" value="6" />
-    <option name="accentColor" value="8e63a1" />
+    <option name="accentColor" value="ab47bc" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-5ac3f6a2:1647cadbc9a:-7fff" />
     <option name="version" value="3.5.0.1" />
   </component>
