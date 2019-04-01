@@ -13,7 +13,6 @@
     <mask>*.css, *.scss</mask>
     <mask>*_test.js</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>!*.xml</mask>
     <mask>*.html,*.js</mask>
     <mask>*.html,*.js,*.ts</mask>
@@ -25,5 +24,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
