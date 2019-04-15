@@ -3,10 +3,14 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
   </JavaCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="Groovy">
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="WHILE_ON_NEW_LINE" value="true" />
