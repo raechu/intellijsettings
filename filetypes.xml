@@ -9,6 +9,7 @@
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="asdf" type="XML" />
     </extensionMap>
   </component>
 </application>
