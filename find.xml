@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '~/.m2/repository/net/sf/opencsv/opencsv/2.3/opencsv-2.3-sources.jar [Maven: net.sf.opencsv:opencsv:2.3]'" />
+    <option name="defaultScopeName" value="Directory '~/.m2/repository/net/sf/opencsv/opencsv/2.3/opencsv-2.3-sources.jar [Maven: net.sf.opencsv:opencsv:2.3]'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/.m2/repository/net/sf/opencsv/opencsv/2.3/opencsv-2.3-sources.jar [Maven: net.sf.opencsv:opencsv:2.3]'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
