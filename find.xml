@@ -24,11 +24,11 @@
     <mask>!*.json</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.js,*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.js,*.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
