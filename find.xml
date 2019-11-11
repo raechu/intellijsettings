@@ -23,11 +23,11 @@
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.js,*.html</mask>
-    <mask>*.js</mask>
     <mask>*.js,*.ts</mask>
     <mask>*.java</mask>
     <mask>*Service*.java</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
