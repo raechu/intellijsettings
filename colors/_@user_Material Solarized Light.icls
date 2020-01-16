@@ -4,7 +4,7 @@
     <property name="created">2018-05-15T17:45:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2018-07-27T15:56:40</property>
+    <property name="modified">2020-01-16T12:52:35</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -17,7 +17,7 @@
     <option name="CARET_COLOR" value="dc322f" />
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
+    <option name="GUTTER_BACKGROUND" value="fdf6e3" />
     <option name="INDENT_GUIDE" value="eee8d5" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
