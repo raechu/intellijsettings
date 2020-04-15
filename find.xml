@@ -27,8 +27,8 @@
     <mask>*Controller.java</mask>
     <mask>*.kt</mask>
     <mask>*.ts</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
