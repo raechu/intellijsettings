@@ -30,7 +30,7 @@
     <mask>*.html</mask>
     <mask>!*tests.js</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*Controller.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
