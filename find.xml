@@ -30,8 +30,8 @@
     <mask>!*tests.js</mask>
     <mask>*.js</mask>
     <mask>*Controller.java</mask>
-    <mask>*.java</mask>
     <mask>*Controller.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
